@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @NamanHS
 - 👀 I’m interested in Java and Android
-- 🌱 I’m currently learning DSA
 - 📫 Reach me at namansanura@gmail.com
 
 <!---
