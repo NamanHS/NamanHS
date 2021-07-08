@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NamanHS
-- 👀 I’m interested in Java and Android
+- 👀 I’m interested in anything related to tech
 - 📫 Reach me at namansanura@gmail.com
 
 <!---
